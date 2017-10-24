@@ -1368,7 +1368,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #FCB941 url("images/overlay.png");
+			background: #282b34 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1377,7 +1377,7 @@
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #F5AB35;
+				background-color: #7f8c8d;
 			}
 
 			input[type="button"].style1:active,
@@ -1486,7 +1486,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #F0A830 !important;
+		color: #FFFFFF !important;
 	}
 
 		.feature-list h3:before {
@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #FCB941 url("images/overlay.png");
+			background: #282b34 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #F6B43F url("images/overlay.png");
+				background: #282b34 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1599,7 +1599,7 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/bannerImage.jpg") center center;
 		background-size: cover;
 	}
 
@@ -1736,7 +1736,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #F0A830;
+			color: #282b34;
 		}
 
 /* Copyright */
