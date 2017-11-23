@@ -1075,7 +1075,7 @@
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #787b7f;
 	}
 
 	body.is-loading * {
@@ -1091,7 +1091,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
-		color: #484d55;
+		color: #343434;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1291,7 +1291,7 @@
 		}
 
 		header.style1 p {
-			color: #b1b4b9;
+			color: #f8f2ee;
 		}
 
 /* Image */
@@ -1368,7 +1368,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #282b34 url("images/overlay.png");
+			background: #bc7b4a url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1377,7 +1377,7 @@
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #7f8c8d;
+				background-color: #bcb69a;
 			}
 
 			input[type="button"].style1:active,
@@ -1419,7 +1419,7 @@
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
+			background: #bc7b4a url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1428,7 +1428,7 @@
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color: #bcb69a;
 			}
 
 			input[type="button"].style3:active,
@@ -1493,7 +1493,7 @@
 			position: relative;
 			display: inline-block;
 			color: #fff;
-			background: #2f333b url("images/overlay.png");
+			background: #cdb490 url("images/overlay.png");
 			border-radius: 1em;
 			text-align: center;
 		}
@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #282b34 url("images/overlay.png");
+			background: #bca589 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #282b34 url("images/overlay.png");
+				background: #bca589 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1582,7 +1582,7 @@
 
 			.wrapper.style2 .title {
 				background: #fff;
-				color: #484d55;
+				color: #181818;
 			}
 
 		.wrapper.style3 {
@@ -1591,7 +1591,7 @@
 
 			.wrapper.style3 .title {
 				background: #f3f3f3 url("images/overlay.png");
-				color: #484d55;
+				color: #181818;
 			}
 
 			.wrapper.style3 .image {
@@ -1614,7 +1614,7 @@
 		}
 
 	#footer-wrapper {
-		background: #282b34 url("images/overlay.png");
+		background: #bca589 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1680,7 +1680,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: #282b34 url("images/overlay.png");
+			background: #bca589 url("images/overlay.png");
 			color: #eee;
 		}
 
@@ -1698,7 +1698,8 @@
 		}
 
 		#footer-wrapper .feature-list h3:before {
-			background: #3d4249 url("images/overlay.png");
+			background: #cdb490
+			url("images/overlay.png");
 		}
 
 /* Logo */
@@ -2038,7 +2039,7 @@
 							color: rgba(255, 255, 255, 0.75);
 							text-transform: uppercase;
 							text-decoration: none;
-							font-size: 0.7em;
+							font-size: 0.85em;
 							letter-spacing: 0.25em;
 							height: 5em;
 							line-height: 5em;
@@ -2059,8 +2060,8 @@
 						}
 
 			.dropotron {
-				background: #222835 url("images/overlay.png");
-				background-color: rgba(44, 50, 63, 0.925);
+				background: #e0c8a4 url("images/overlay.png");
+				background-color: rgba(224, 200, 164, 0.92);
 				padding: 1.25em 1em 1.25em 1em;
 				border-radius: 0.35em;
 				box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
