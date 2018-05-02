@@ -1493,7 +1493,7 @@
 			position: relative;
 			display: inline-block;
 			color: #fff;
-			background: #cdb490 url("images/overlay.png");
+			background: #bd9776 url("images/overlay.png");
 			border-radius: 1em;
 			text-align: center;
 		}
@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #bca589 url("images/overlay.png");
+			background: #C48D4C url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #bca589 url("images/overlay.png");
+				background: #C48D4C url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2061,7 +2061,7 @@
 
 			.dropotron {
 				background: #e0c8a4 url("images/overlay.png");
-				background-color: rgba(224, 200, 164, 0.92);
+				background-color: #C18B4B;
 				padding: 1.25em 1em 1.25em 1em;
 				border-radius: 0.35em;
 				box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
